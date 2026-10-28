@@ -134,12 +134,17 @@ This lab is for learning only. I only test systems I own or have permission to t
 | Shields.io | Creating the badges at the top of this README | [shields.io](https://shields.io) |
 | ShareX | Recording the screen and capturing screenshots of the lab | [getsharex.com](https://getsharex.com) |
 
+---
+
 ## 👤 Author
 
 **Obioma Chimaijem**
+Cybersecurity Intern at NETWORKWALKS | Batch B084
 
-Cybersecurity Intern, B084A
+LinkedIn: https://www.linkedin.com/in/chimaijem-obioma-15aa85315/
 
-** 🔗 LinkedIn:**
+---
 
-https://www.linkedin.com/in/chimaijem-obioma-15aa85315
+## 📌 Project Information
+
+**Program Name:** Cybersecurity at NETWORKWALKS (Batch B084) | **Week:** 01 | **Project:** Cybersecurity & Pentesting Lab Setup (WK1-PM1) | **Repository:** GitHub
